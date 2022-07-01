@@ -1,0 +1,18 @@
+package NovoPacote;
+
+public class NovaClasse {
+	
+    public static void main(String[] args) {
+		
+    	System.out.println("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan, eros viverra hendrerit dapibus, quam urna ultrices lectus, sed pellentesque diam turpis eget quam. Aenean et aliquam sem. Aenean felis metus, scelerisque vitae quam non, facilisis viverra arcu. Nam rutrum ligula quis libero interdum, sit amet elementum quam mattis. Proin lectus lectus, ullamcorper a neque eget, sollicitudin suscipit nunc. Sed sed convallis est, vel mattis orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec volutpat sapien et eros pulvinar, sit amet condimentum dui dignissim. Pellentesque iaculis enim id massa vulputate, eu volutpat risus mollis. Curabitur tincidunt hendrerit cursus. In hac habitasse platea dictumst. Cras finibus feugiat luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.\r\n"
+    			+ "\r\n"
+    			+ "Maecenas bibendum nibh nisi, et venenatis massa tristique sit amet. Vivamus lobortis augue rhoncus, sagittis quam in, pharetra nisi. Maecenas sed velit et tellus pharetra vestibulum a vel nisi. Aliquam non odio non massa pretium fermentum at at erat. Nullam ultrices nisi at urna iaculis, at sollicitudin libero euismod. Maecenas auctor elementum mi, non malesuada nisl mattis eget. Donec pulvinar tristique gravida. Vestibulum sit amet congue tortor. Vestibulum eu pellentesque nisi. Nunc tristique tempus dui, et posuere orci dictum vitae. Proin at varius sem. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris consectetur eu sem a gravida. Aliquam eget arcu quis justo vulputate ultricies. Pellentesque varius erat et eros placerat, in varius libero convallis. Nunc at mauris laoreet, pretium nisi ac, pretium felis.\r\n"
+    			+ "\r\n"
+    			+ "Proin mollis tincidunt lorem. Nunc sit amet ante lectus. Praesent sollicitudin dapibus purus ac varius. Pellentesque mi metus, fermentum et ante ut, imperdiet condimentum neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ante nunc, commodo ut lectus id, faucibus vulputate sem. Nunc at interdum augue.\r\n"
+    			+ "\r\n"
+    			+ "Pellentesque suscipit euismod nunc sed vestibulum. Nunc maximus, metus ac fermentum viverra, nibh magna efficitur elit, porttitor pulvinar lectus nisl quis lectus. Phasellus rutrum diam sed tempor rhoncus. Duis aliquam urna in augue interdum, eu sagittis risus consectetur. Nam et quam dui. Sed molestie aliquet est at euismod. Maecenas dignissim neque et ipsum ornare interdum.\r\n"
+    			+ "\r\n"
+    			+ "Duis sem est, viverra non sollicitudin feugiat, vestibulum eget urna. Donec vitae nulla elementum, consectetur ipsum sit amet, porta velit. In sit amet finibus purus. Vivamus eget tortor vitae sem accumsan egestas vel vel sapien. Nunc nunc nisl, lacinia sit amet quam vel, faucibus porta nulla. Morbi turpis magna, malesuada non ultrices vitae, bibendum ac lorem. Praesent eget odio rhoncus, dignissim nulla quis, vestibulum odio. Quisque blandit risus a nibh scelerisque accumsan. Fusce bibendum arcu lectus, eget pellentesque purus vestibulum in. Maecenas in elit eu arcu eleifend molestie nec semper elit. Pellentesque nisi lectus, consectetur eu bibendum ut, congue id sem. Nunc congue quam ex, sit amet ullamcorper elit vestibulum quis. Integer magna nisi, maximus sit amet congue non, fermentum sed ex. Mauris at lorem non lectus bibendum varius eu condimentum felis. Sed lacus nibh, lobortis quis lectus nec, viverra semper elit. Quisque turpis ex, ultricies ut congue efficitur, commodo in diam.");
+	}
+
+}
